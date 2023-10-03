@@ -19,7 +19,7 @@ And if you have a good physics joke to share, I'm all ears. After all, who says 
 
 Ready to explore the limitless universe of blockchain with me? Let's go!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alexandro%20T.%20Netto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nevena-zafirkova/)](https://www.linkedin.com/in/nevena-zafirkova/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nevena%20T.%20Zafirkova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nevena-zafirkova/)](https://www.linkedin.com/in/nevena-zafirkova/)
 
 
 
