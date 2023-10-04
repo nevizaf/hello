@@ -15,7 +15,7 @@ Technical and Legal Consulting
 
 If interested more, go check -> https://github.com/LimeChain. Let's connect, explore blockchain innovations, and create a more decentralized future together!
 
-And if you have a good physics joke to share, I'm all ears. After all, who says blockchain and humor can't mix?
+And if you have a good blockchain joke to share, I'm all ears. After all, who says blockchain and humor can't mix?
 
 Ready to explore the limitless universe of blockchain with me? Let's go!
 
