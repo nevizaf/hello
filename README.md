@@ -1,6 +1,6 @@
 ### Hi there, Im Nevena 👋
 
-Hello, World! I'm Nevena, deeply entrenched in the world of blockchain and Web3 innovations. This repository is a collection of my work, contributions, and experiments in this rapidly-evolving tech landscape. I'm part of an amazing team at LimeChain, where we've helped 100+ enterprises and blockchain entrepreneurs turn their visions into reality using Blockchain and Decentralized Ledgers Technology.
+Hello, World! 👋 I'm Nevena, a tech enthusiast deeply entrenched in the world of blockchain and Web3 innovations. I am part of an amazing team at LimeChain, where we've helped 100+ enterprises and entrepreneurs turn their visions into reality using Blockchain and Decentralized Ledgers Technology.
 
 As a blockchain-agnostic team, our services at LimeChain encompass:
 
